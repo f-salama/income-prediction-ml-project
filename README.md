@@ -95,4 +95,4 @@ The Decision Tree was simple and interpretable but struggled with the minority c
 project.ipynb        # Main Jupyter Notebook containing the full project
 CMPS460-Project.pdf  # Project description and grading rubric
 README.md            # Project documentation
-adult.data           # dataset
+adult.data           # Dataset
